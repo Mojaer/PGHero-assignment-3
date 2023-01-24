@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,800;1,400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-custom-brown {
+    background: #B68C5A;
+    color: #fff;
+}
+
+.bg-banner-image {
+    background-image: url(../images/banner.png);
+    background-repeat: none;
+    background-color: gray;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.tittle-text {
+    font-family: 'EB Garamond', serif;
+}
+
+.font-custom-thin {
+    color: #E7E7E7;
+
+}
+
+.carousel-image {
+    width: 7rem;
+}
+
+.Carousel-client {
+    background-image: url(../images/closeup-gavel-judgement-concept.jpg);
+    background-color: rgba(0, 0, 0, 0.63);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contact-background {
+    background: #F3F3F3;
+}
